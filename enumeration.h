@@ -1,5 +1,4 @@
 #pragma once
-#include <bits/stdc++.h>
 #include "graph.h"
 #include "BuildTable.h"
 

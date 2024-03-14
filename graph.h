@@ -1,7 +1,5 @@
 #pragma once
 
-#include<bits/stdc++.h>
-
 typedef unsigned int ui;
 
 typedef uint32_t VertexID;

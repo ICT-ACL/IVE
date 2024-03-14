@@ -1,6 +1,5 @@
 #pragma once
 
-#include <bits/stdc++.h>
 #include <x86intrin.h>
 
 #define MM_LOAD_SI_128 _mm_loadu_si128

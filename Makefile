@@ -14,3 +14,5 @@ all: $(TARGET)
 $(TARGET): main.cpp
 	$(CC) $(FLAGS) -o $(TARGET) main.cpp
 
+clean:
+	$(RM) $(TARGET)
