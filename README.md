@@ -45,4 +45,5 @@ We use the [datasets](https://drive.google.com/file/d/1uHaVbNvZzUJipfw-tq-RH9lXe
 
 
 ## References
-[1] Shixuan Sun and Qiong Luo. In-Memory Subgraph Matching: an In-depth Study. SIGMOD 2020.
+[1] Zite Jiang, et al. Fast Subgraph Matching by Dynamic Graph Editing. TSC 2023.
+[2] Shixuan Sun and Qiong Luo. In-Memory Subgraph Matching: an In-depth Study. SIGMOD 2020.
